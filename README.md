@@ -4,7 +4,7 @@
 
 #### installation:
 
-unpack archive with **`bash tar -xf alpine.tar.zst`**
+unpack archive with **`tar -xf alpine.tar.zst`**
 
 #### usage:
 
